@@ -1,0 +1,9 @@
+.ItemProduct{
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.ItemProduct img, .ItemProduct-description{
+    padding-left: 15px;
+}
+
